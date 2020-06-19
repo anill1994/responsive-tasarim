@@ -1,0 +1,29 @@
+@media screen and (min-width:700px){
+    html{
+        font-size: 13px;
+    }
+    .section-d .col-a{
+        padding: 3rem;
+        float: left;
+        width: 50%;
+    }
+    .section-d .col-b{
+        background-color: #3368FF;
+        padding: 3rem;
+        float: left;
+        width: 50%;
+    }
+    .section-b{
+       text-align: center;
+
+    }
+    .section-b li{
+        width: 28%;
+        margin:1%;
+        display: inline-block;
+    }
+    .section-b li img{
+       width: 100%;
+       height: 20rem;
+    }
+}
